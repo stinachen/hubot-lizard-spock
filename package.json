@@ -1,7 +1,7 @@
 {
-  "name": "hubot-hubot-lizard-spock",
+  "name": "hubot-lizard-spock",
   "description": "Play a game of Rock-Paper-Scissors-Lizard-Spock with Hubot.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Christina Chen <czchen@umich.edu>",
   "license": "MIT",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-lizard-spock.git"
+    "url": "git://github.com/stinachen/hubot-lizard-spock.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-lizard-spock/issues"
+    "url": "https://github.com/stinachen/hubot-lizard-spock/issues"
   },
 
   "dependencies": {
