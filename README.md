@@ -1,16 +1,16 @@
-# hubot-hubot-lizard-spock
+# hubot-lizard-spock
 
-Play a game of Rock-Paper-Scissors-Lizard-Spock with Hubot.
+Play a game of Rock-Paper-Scissors-Lizard-Spock, as discussed by Sheldon Cooper in S2E8 "The Lizard-Spock Expansion" of The Big Bang Theory, with Hubot.
 
-See [`src/hubot-lizard-spock.coffee`](src/hubot-lizard-spock.coffee) for full documentation.
+See [`src/hubot-lizard-spock.js`](src/hubot-lizard-spock.js) for full documentation.
 
 ## Installation
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-lizard-spock --save`
+`npm install hubot-lizard-spock --save`
 
-Then add **hubot-hubot-lizard-spock** to your `external-scripts.json`:
+Then add **hubot-lizard-spock** to your `external-scripts.json`:
 
 ```json
 [
@@ -21,8 +21,8 @@ Then add **hubot-hubot-lizard-spock** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot sheldon rules
+hubot>> [INSERT-RULES-HERE]!
 ```
 
 ## NPM Module
