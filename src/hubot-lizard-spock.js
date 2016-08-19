@@ -91,7 +91,6 @@ module.exports = function(robot) {
   // Displays lifetime stats of a user.
   robot.respond(/sheldon stats (.*)|sheldon stats/i, function(msg) {
     var playerName = msg.match[1];
-    console.log('player name: ' + playerName);
     if (!playerName) {
       playerName = msg.message.user.name;
     }

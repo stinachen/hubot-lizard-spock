@@ -1,7 +1,7 @@
 {
   "name": "hubot-lizard-spock",
   "description": "Play a game of Rock-Paper-Scissors-Lizard-Spock with Hubot.",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "Christina Chen <czchen@umich.edu>",
   "license": "MIT",
 
